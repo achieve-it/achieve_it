@@ -1,0 +1,17 @@
+.ctnt{
+  margin-top: 8.5%;
+  max-width: 600px;
+}
+.ctnt p{
+  margin: 10px 0 50px;
+  color: black;
+  animation-delay: 0.5s;
+}
+
+.ror{
+  width: 420px;
+  position: absolute;
+  bottom: 19%;
+  right: 14%;
+  display: block;
+}
